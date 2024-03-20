@@ -1,5 +1,5 @@
 # dev.github.io
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devanshu Bhajbhuje
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Finance
-- 📫 How to reach me: dipayansarkar265482@gmail.com
+- 📫 How to reach me: dbhajbhuje031@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
